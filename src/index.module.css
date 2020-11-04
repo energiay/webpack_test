@@ -1,0 +1,17 @@
+.test {
+    color: black;
+}
+
+body {
+    margin: 0 auto;
+    width: 300px;
+}
+
+h1 {
+    color: #aab004;
+}
+
+div {
+    margin: 0 auto;
+    color: #aaaabb;
+}
